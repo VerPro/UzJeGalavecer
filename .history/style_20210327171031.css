@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  max-width: 60%;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: mediumslateblue;
+}
+
+h1 {
+  border: 5px solid black;
+  padding: 20px;
+  font-family: 'Kaushan Script', cursive;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  order: 2;
+}

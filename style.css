@@ -1,0 +1,22 @@
+body {
+  background-color: #961d47;
+  min-height: 100vh;
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
+
+h1 {
+  max-width: 60%;
+  font-size: 45px;
+}
+
+img {
+  max-width: 50%;
+  order: 2;
+  border: 2px solid black;
+}
